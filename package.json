@@ -1,5 +1,5 @@
 {
-  "devDependencies": {
-    "tailwindcss": "^3.3.3"
-  }
+  "name": "navbar",
+  "version": "0.1.0",
+  "private": true
 }
